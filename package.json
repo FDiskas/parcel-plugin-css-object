@@ -1,8 +1,12 @@
 {
   "name": "parcel-plugin-css-object",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:FDiskas/parcel-plugin-css-object.git"
+  },
   "dependencies": {
     "camelcase": "^4.1.0",
     "css": "^2.2.1"
