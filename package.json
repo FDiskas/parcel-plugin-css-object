@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:FDiskas/parcel-plugin-css-object.git"
+    "url": "git+git@github.com:FDiskas/parcel-plugin-css-object.git"
   },
   "dependencies": {
     "camelcase": "^4.1.0",
