@@ -1,13 +1,8 @@
-
-n.n.n / 2018-03-22
+v1.v.6 / 2018-03-22
 ==================
 
-
-
-v1.1.6 / 2018-03-22
-===================
-
   * release v1.1.6
+  * Add version settings and changelog script
   * Add repository info
 
 v1.1.5 / 2018-03-22
