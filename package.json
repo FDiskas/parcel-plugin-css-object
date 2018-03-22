@@ -1,0 +1,13 @@
+{
+  "name": "parcel-plugin-css-object",
+  "version": "1.1.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^4.1.0",
+    "css": "^2.2.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "latest"
+  }
+}
