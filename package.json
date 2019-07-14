@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "camelcase": "^4.1.0",
-    "css": "^2.2.1"
+    "css": "^2.2.4"
   },
   "devDependencies": {
     "parcel-bundler": "latest"
