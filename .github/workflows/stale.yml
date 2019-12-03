@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/stale@v1
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.STALE }}
         stale-issue-message: 'Stale issue'
         stale-pr-message: 'Stale pull request'
         stale-issue-label: 'no-issue-activity'
