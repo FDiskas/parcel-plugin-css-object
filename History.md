@@ -1,7 +1,14 @@
 
-n.n.n / 2019-07-14
+n.n.n / 2019-12-12
 ==================
 
+  * Update stale.yml
+  * Create stale.yml
+
+v1.1.7 / 2019-07-14
+===================
+
+  * release v1.1.7
   * Bump version v1.1.7
   * Fixed security issues
   * Bump safer-eval from 1.2.3 to 1.3.4
