@@ -2,6 +2,12 @@
 n.n.n / 2021-03-11
 ==================
 
+  * fix pipeline
+
+v1.2.0 / 2021-03-11
+===================
+
+  * release v1.2.0
   * automaticly publish
   * Create npm-publish.yml
 
