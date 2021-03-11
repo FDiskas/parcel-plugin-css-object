@@ -2,6 +2,12 @@
 n.n.n / 2021-03-11
 ==================
 
+  * Fix deployment on npmjs
+
+v1.2.4 / 2021-03-11
+===================
+
+  * release v1.2.4
   * Change package name
 
 v1.2.3 / 2021-03-11
