@@ -1,6 +1,6 @@
 {
   "name": "@fdiskas/parcel-plugin-css-object",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Parcel loader to load CSS into an object. The object has keys that are selectors from the CSS file; the value of each selector are the rules converted to camelCase properties ([see Style Object Properties](http://www.w3schools.com/jsref/dom_obj_style.asp)). This object is compatible with [React Inline Styles](https://facebook.github.io/react/tips/inline-styles.html).",
   "main": "index.js",
   "scripts": {
