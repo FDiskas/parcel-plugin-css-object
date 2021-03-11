@@ -2,6 +2,13 @@
 n.n.n / 2021-03-11
 ==================
 
+  * automaticly publish
+  * Create npm-publish.yml
+
+v1.1.9 / 2021-03-11
+===================
+
+  * release v1.1.9
   * update dependencies
   * Bump elliptic from 6.5.3 to 6.5.4
   * Bump yargs-parser from 15.0.0 to 15.0.1
