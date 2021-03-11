@@ -10,7 +10,7 @@
     "camelcase": "^4.1.0",
     "css": "^2.2.4"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "parcel-bundler": "^1.12.4"
   },
   "repository": {
