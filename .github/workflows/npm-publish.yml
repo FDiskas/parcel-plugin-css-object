@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: 14.x
           registry-url: https://registry.npmjs.org
+          always-auth: true
       - run: yarn install --frozen-lockfile
       - run: yarn publish --access public
         env:
