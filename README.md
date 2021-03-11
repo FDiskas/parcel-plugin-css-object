@@ -4,7 +4,7 @@ Parcel loader to load CSS into an object. The object has keys that are selectors
 
 ## Install
 
-`npm install -D parcel-plugin-css-object`
+`npm install -D @fdiskas/parcel-plugin-css-object`
 
 ## Usage:
 
