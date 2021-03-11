@@ -2,6 +2,12 @@
 n.n.n / 2021-03-11
 ==================
 
+  * Change package name
+
+v1.2.3 / 2021-03-11
+===================
+
+  * release v1.2.3
   * release v1.2.2
   * Rename package
 
