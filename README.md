@@ -47,7 +47,7 @@ Now you can use those rules however you like:
 
 ```js
 const MyComponent = ({ children }) => (
-  <div style={selectors.centered}>{children}</div>
+  <div style={style.centered}>{children}</div>
 );
 ```
 
